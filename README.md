@@ -215,12 +215,16 @@ Coming soon...
 
 <img src="./assets/divider_a.svg" width="100%">
 
-<!-- ============ SCRAP 12 · SNAKE ============ -->
+<!-- ============ SCRAP 12 · PAC-MAN CONTRIBUTION GRAPH ============ -->
 <img src="./assets/banner_12_contribution_snake.svg" width="100%">
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zimiDev/zimiDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zimiDev/zimiDev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 </div>
 
@@ -248,11 +252,16 @@ No shortcuts. No pretending. **Just build.**
 
 <div align="center">
 
-<a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-0d1117?style=for-the-badge&logo=github&logoColor=00C97A"></a>
-<a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0d1117?style=for-the-badge&logo=linkedin&logoColor=00C97A"></a>
-<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-0d1117?style=for-the-badge&logo=leetcode&logoColor=00C97A"></a>
-<a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00C97A"></a>
+<a href="https://github.com/zimiDev"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"></a>
+<a href="https://linkedin.com/in/zimidev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55"></a>
+<a href="mailto:zimidevs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="55"></a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-0d1117?style=flat-square&logo=leetcode&logoColor=00C97A"></a>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12241d,100:0d1117&height=100&section=footer" width="100%">
+
+</div>
