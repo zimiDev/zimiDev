@@ -1,26 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00FF9C&height=200&section=header&text=ZIMI&fontSize=80&fontColor=00FF9C&fontAlignY=40&animation=fadeIn&fontFamily=Fira+Code" width="100%">
+<img src="./assets/hero_zimi.svg" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9C&background=0d1117&center=true&vCenter=true&width=650&lines=%3E+whoami+..+cutting+and+pasting+a+life+in+code;Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=00C97A&background=00000000&center=true&vCenter=true&width=650&lines=Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/📌_pinned-since_2024-0d1117?style=flat-square&labelColor=0d1117&color=00FF9C">
-<img src="https://img.shields.io/badge/torn_from-PDP_University-0d1117?style=flat-square&labelColor=0d1117&color=00FF9C">
-<img src="https://img.shields.io/badge/glued_with-☕_patience-0d1117?style=flat-square&labelColor=0d1117&color=00FF9C">
+<img src="https://img.shields.io/badge/📌_pinned-since_2024-0d1117?style=flat-square&labelColor=0d1117&color=00C97A">
+<img src="https://img.shields.io/badge/torn_from-PDP_University-0d1117?style=flat-square&labelColor=0d1117&color=00C97A">
+<img src="https://img.shields.io/badge/glued_with-☕_patience-0d1117?style=flat-square&labelColor=0d1117&color=00C97A">
 
 </div>
 
 <br>
 
 <!-- ============ SCRAP 01 · WHOAMI ============ -->
-
-## 📌&nbsp; whoami — the torn note
+<img src="./assets/banner_01_whoami.svg" width="100%">
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ```yaml
 # clipped from a notebook margin
@@ -40,20 +39,19 @@ studying: AI Solutions & Applications @ PDP University
 📚 42.uz Express Algorithm — graduated
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-art-coding.gif" width="230" style="border:3px solid #00FF9C; border-radius:4px;">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-art-coding.gif" width="220" style="border:6px solid #f2e9d6; border-radius:2px; transform:rotate(3deg); box-shadow:0 6px 14px rgba(0,0,0,0.5);">
 <br><sub>📎 taped in — terminal fragment</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 02 · STACK ============ -->
-
-## 🖇️&nbsp; stack — cut from different sheets
+<img src="./assets/banner_02_stack.svg" width="100%">
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons">
@@ -97,11 +95,10 @@ studying: AI Solutions & Applications @ PDP University
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="./assets/divider_b.svg" width="100%">
 
 <!-- ============ SCRAP 03 · CURRENTLY ============ -->
-
-## 🗒️&nbsp; currently — sticky notes on the desk
+<img src="./assets/banner_03_currently.svg" width="100%">
 
 ```diff
 + Solving problems on LeetCode
@@ -113,13 +110,12 @@ studying: AI Solutions & Applications @ PDP University
 + Understanding systems beyond the abstraction
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 04 · PHILOSOPHY ============ -->
+<img src="./assets/banner_04_philosophy.svg" width="100%">
 
 <div align="center">
-
-## ⋆ philosophy — cut in a loop, pinned in a circle ⋆
 
 ```
    LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REPEAT
@@ -129,11 +125,10 @@ studying: AI Solutions & Applications @ PDP University
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="./assets/divider_b.svg" width="100%">
 
 <!-- ============ SCRAP 05 · PROBLEM SOLVING ============ -->
-
-## 🧵&nbsp; problem_solving — thread connecting the pins
+<img src="./assets/banner_05_problem_solving.svg" width="100%">
 
 ```text
 Read → Understand → Pattern → Design → Complexity → Implement → Test → Learn
@@ -143,13 +138,12 @@ Read → Understand → Pattern → Design → Complexity → Implement → Test
 > I don't solve problems just to move a number.
 > **The goal is to become better at thinking.**
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 06 · BACKEND DIAGRAM ============ -->
+<img src="./assets/banner_06_backend.svg" width="100%">
 
 <div align="center">
-
-## 🗂️ backend — the blueprint clipping
 
 ```
                     ┌──────────┐
@@ -178,15 +172,14 @@ Read → Understand → Pattern → Design → Complexity → Implement → Test
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="./assets/divider_b.svg" width="100%">
 
 <!-- ============ SCRAP 07 · LINUX ============ -->
+<img src="./assets/banner_07_linux.svg" width="100%">
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-
-## `> linux` — the corner sticker
+<td width="60%" valign="top">
 
 ```bash
 $ uname -a
@@ -204,40 +197,38 @@ Linux
 **Linux isn't something I occasionally use — it's where I work.**
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/terminal-gif.gif" width="230" style="border:3px solid #00FF9C; border-radius:4px;">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/terminal-gif.gif" width="220" style="border:6px solid #f2e9d6; border-radius:2px; transform:rotate(-3deg); box-shadow:0 6px 14px rgba(0,0,0,0.5);">
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 08 · INTERESTS ============ -->
+<img src="./assets/banner_08_interests.svg" width="100%">
 
 <div align="center">
 
-## 🏷️ interests — a scatter of clippings
-
-<img src="https://img.shields.io/badge/Software_Engineering-0d1117?style=flat-square&logo=codeforces&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Backend_Development-0d1117?style=flat-square&logo=fastapi&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logo=leetcode&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0d1117?style=flat-square&logo=openai&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Software_Engineering-0d1117?style=flat-square&logo=codeforces&logoColor=00C97A">
+<img src="https://img.shields.io/badge/Backend_Development-0d1117?style=flat-square&logo=fastapi&logoColor=00C97A">
+<img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logo=leetcode&logoColor=00C97A">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0d1117?style=flat-square&logo=openai&logoColor=00C97A">
 <br><br>
-<img src="https://img.shields.io/badge/Data_Analytics-0d1117?style=flat-square&logo=googleanalytics&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Systems-0d1117?style=flat-square&logo=cachet&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Databases-0d1117?style=flat-square&logo=postgresql&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Computer_Networks-0d1117?style=flat-square&logo=cisco&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Data_Analytics-0d1117?style=flat-square&logo=googleanalytics&logoColor=00C97A">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00C97A">
+<img src="https://img.shields.io/badge/Systems-0d1117?style=flat-square&logo=cachet&logoColor=00C97A">
+<img src="https://img.shields.io/badge/Databases-0d1117?style=flat-square&logo=postgresql&logoColor=00C97A">
+<img src="https://img.shields.io/badge/Computer_Networks-0d1117?style=flat-square&logo=cisco&logoColor=00C97A">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="./assets/divider_b.svg" width="100%">
 
 <!-- ============ SCRAP 09 · 42.uz ============ -->
-
-## 📜&nbsp; 42.uz — the certificate cutout
+<img src="./assets/banner_09_42_uz.svg" width="100%">
 
 ```
 COURSE  : Express Algorithm
@@ -249,13 +240,12 @@ RESULT
 └── More problems to solve
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 10 · PROJECTS ============ -->
+<img src="./assets/banner_10_projects.svg" width="100%">
 
 <div align="center">
-
-## 🗃️ projects — an empty frame, waiting
 
 ```bash
 $ ls ~/projects
@@ -266,20 +256,19 @@ Coming soon...
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="./assets/divider_b.svg" width="100%">
 
 <!-- ============ SCRAP 11 · STATS COLLAGE ============ -->
+<img src="./assets/banner_11_github_stats.svg" width="100%">
 
 <div align="center">
 
-## 📊 github_stats — the numbers pinboard
-
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&labelColor=0d1117&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
-<img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00FF9C&label=Followers&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00C97A&labelColor=0d1117&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
+<img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00C97A&label=Followers&labelColor=0d1117" alt="Followers" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="55%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00C97A&fire=00C97A&currStreakLabel=00C97A" width="55%" alt="GitHub streak" />
 
 <br><br>
 
@@ -287,25 +276,23 @@ Coming soon...
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 12 · SNAKE ============ -->
+<img src="./assets/banner_12_contribution_snake.svg" width="100%">
 
 <div align="center">
-
-## 🐍 contribution_snake — the ribbon holding it together
 
 <img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="./assets/divider_b.svg" width="100%">
 
 <!-- ============ SCRAP 13 · OBJECTIVE ============ -->
+<img src="./assets/banner_13_objective.svg" width="100%">
 
 <div align="center">
-
-## 🎯 objective — the headline clipping
 
 ```
 Become a Software Engineer
@@ -317,18 +304,17 @@ No shortcuts. No pretending. **Just build.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="./assets/divider_a.svg" width="100%">
 
 <!-- ============ SCRAP 14 · CONNECT ============ -->
+<img src="./assets/banner_14_connect.svg" width="100%">
 
 <div align="center">
 
-## 🔗 connect — the last sticker on the board
-
-<a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C"></a>
-<a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"></a>
-<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C"></a>
-<a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"></a>
+<a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-0d1117?style=for-the-badge&logo=github&logoColor=00C97A"></a>
+<a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0d1117?style=for-the-badge&logo=linkedin&logoColor=00C97A"></a>
+<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-0d1117?style=for-the-badge&logo=leetcode&logoColor=00C97A"></a>
+<a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00C97A"></a>
 
 <br><br>
 
@@ -351,4 +337,4 @@ The work isn't.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00FF9C&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12241d,100:0d1117&height=100&section=footer" width="100%">
