@@ -3,21 +3,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif">
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/zimi_dev"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://zimi.uz"><img src="https://img.shields.io/badge/Website-zimi.uz-00FF9C?style=for-the-badge&logo=todoist&logoColor=black" alt="Website"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-RUNNING-00FF9C?style=for-the-badge&logo=linux&logoColor=black" alt="status" />
+  <img src="https://img.shields.io/badge/STATUS-RUNNING-00FF9C?style=flat-square&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/SYSTEM-LINUX-00FF9C?style=flat-square&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/MODE-LEARNING-00FF9C?style=flat-square&labelColor=1a1a1a">
 </p>
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> whoami`
 
@@ -41,30 +43,32 @@ Focus     : Backend • Algorithms • AI
 
 > I like understanding **how things work**, not just making them work.
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,postgres,fastapi,nodejs,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons" />
 </p>
 
 ```text
-LANGUAGES        BACKEND          DATABASES        AI & DATA
-├── Python        ├── FastAPI      └── PostgreSQL   ├── AI Tools
-├── Go            ├── Node.js                       ├── Data Analytics
-└── SQL           └── REST APIs                     └── AI Engineering
+LANGUAGES        DATABASE           COMPUTER SCIENCE
+├── Python        └── PostgreSQL     ├── Data Structures & Algorithms
+└── Go                               ├── Problem Solving
+                                      ├── Object-Oriented Programming
+BACKEND                              ├── Operating Systems
+├── FastAPI                          ├── Computer Networks
+├── Node.js                          └── System Design
+└── REST APIs
 
-COMPUTER SCIENCE                    TOOLS & ENVIRONMENT
-├── Data Structures & Algorithms    ├── Linux
-├── Problem Solving                 ├── Git
-├── Object-Oriented Programming     ├── GitHub
-├── Operating Systems               └── Terminal
-├── Computer Networks
-└── System Design
+AI & DATA                TOOLS & ENVIRONMENT
+├── AI Tools              ├── Linux
+├── Data Analytics        ├── Git
+└── AI Engineering        ├── GitHub
+                           └── Terminal
 ```
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> currently`
 
@@ -78,12 +82,12 @@ COMPUTER SCIENCE                    TOOLS & ENVIRONMENT
 [+] Understanding systems beyond the abstraction
 ```
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> philosophy`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="philosophy gif">
 </p>
 
 ```text
@@ -104,7 +108,7 @@ COMPUTER SCIENCE                    TOOLS & ENVIRONMENT
 
 > **If I don't understand it, I don't consider it learned.**
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> problem_solving`
 
@@ -125,7 +129,7 @@ Test        → Learn
 I don't solve problems just to increase a number.
 **The goal is to become better at thinking.**
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> backend`
 
@@ -157,14 +161,14 @@ I don't solve problems just to increase a number.
                   └─────────────┘
 ```
 
-Building backend systems while learning what happens underneath them.
+*Technologies I use for backend development.*
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> linux`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/z0k8VTX2FVAGA/giphy.gif" width="320">
+  <img src="https://media.giphy.com/media/z0k8VTX2FVAGA/giphy.gif" width="320" alt="linux terminal gif">
 </p>
 
 ```text
@@ -182,24 +186,24 @@ Linux
 
 **Linux isn't something I occasionally use. It's where I work.**
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> interests`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-000?style=flat-square&logo=codeforces&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/Backend_Development-000?style=flat-square&logo=fastapi&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/DSA-000?style=flat-square&logo=leetcode&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-000?style=flat-square&logo=openai&logoColor=00FF9C&color=1a1a1a">
+  <img src="https://img.shields.io/badge/Software_Engineering-1a1a1a?style=flat-square&logo=codeforces&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Backend_Development-1a1a1a?style=flat-square&logo=fastapi&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-1a1a1a?style=flat-square&logo=openai&logoColor=00FF9C">
   <br>
-  <img src="https://img.shields.io/badge/Data_Analytics-000?style=flat-square&logo=googleanalytics&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/Systems-000?style=flat-square&logo=cachet&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/Databases-000?style=flat-square&logo=postgresql&logoColor=00FF9C&color=1a1a1a">
-  <img src="https://img.shields.io/badge/Computer_Networks-000?style=flat-square&logo=cisco&logoColor=00FF9C&color=1a1a1a">
+  <img src="https://img.shields.io/badge/Data_Analytics-1a1a1a?style=flat-square&logo=googleanalytics&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Systems-1a1a1a?style=flat-square&logo=cachet&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Databases-1a1a1a?style=flat-square&logo=postgresql&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/Computer_Networks-1a1a1a?style=flat-square&logo=cisco&logoColor=00FF9C">
 </p>
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> 42.uz`
 
@@ -213,7 +217,7 @@ RESULT
 └── More problems to solve
 ```
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> projects`
 
@@ -227,24 +231,34 @@ Building things that are worth showing.
 
 > **Build first. Show later.**
 
----
+<p align="center">──────────────────────────────────────────</p>
 
-## `> stats`
+## `> github_stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zimiDev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C" width="48%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="48%" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimiDev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C" width="45%" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/zimi_dev?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" alt="LeetCode stats" />
 </p>
 
----
+<p align="center">──────────────────────────────────────────</p>
+
+## `> contribution_snake`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
+</p>
+
+> Ushbu animatsiya avtomatik ishlashi uchun `.github/workflows/snake.yml` faylini repo'ga qo'shish kerak (quyida tayyorlab berildi).
+
+<p align="center">──────────────────────────────────────────</p>
 
 ## `> objective`
 
@@ -256,25 +270,21 @@ from the algorithm to the application.
 
 No shortcuts. No pretending. **Just build.**
 
----
+<p align="center">──────────────────────────────────────────</p>
 
-## `> contact`
-
-```text
-$ ./connect.sh
-```
+## `> connect`
 
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Zimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/zimi_dev"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-your%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/USERNAME"><img src="https://img.shields.io/badge/LeetCode-USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
----
+<p align="center">──────────────────────────────────────────</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW7wq9OMWDDe/giphy.gif" width="280">
+  <img src="https://media.giphy.com/media/xUOxfjsW7wq9OMWDDe/giphy.gif" width="280" alt="closing gif">
 </p>
 
 ```text
