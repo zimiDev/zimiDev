@@ -2,26 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00FF9C&height=200&section=header&text=ZIMI&fontSize=80&fontColor=00FF9C&fontAlignY=40&animation=fadeIn&fontFamily=Fira+Code" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+whoami+..+cutting+and+pasting+a+life+in+code;Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9C&background=0d1117&center=true&vCenter=true&width=650&lines=%3E+whoami+..+cutting+and+pasting+a+life+in+code;Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/📌_pinned-since_2024-1a1a1a?style=flat-square&labelColor=0d1117&color=00FF9C">
-<img src="https://img.shields.io/badge/torn_from-PDP_University-1a1a1a?style=flat-square&labelColor=0d1117&color=00FF9C">
-<img src="https://img.shields.io/badge/glued_with-☕+patience-1a1a1a?style=flat-square&labelColor=0d1117&color=00FF9C">
+<img src="https://img.shields.io/badge/📌_pinned-since_2024-0d1117?style=flat-square&labelColor=0d1117&color=00FF9C">
+<img src="https://img.shields.io/badge/torn_from-PDP_University-0d1117?style=flat-square&labelColor=0d1117&color=00FF9C">
+<img src="https://img.shields.io/badge/glued_with-☕_patience-0d1117?style=flat-square&labelColor=0d1117&color=00FF9C">
 
 </div>
 
 <br>
 
 <!-- ============ SCRAP 01 · WHOAMI ============ -->
-<img align="left" width="42" src="https://img.icons8.com/fluency/48/pushpin.png">
 
-## &nbsp;whoami — the torn note
+## 📌&nbsp; whoami — the torn note
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```yaml
 # clipped from a notebook margin
@@ -41,9 +40,9 @@ studying: AI Solutions & Applications @ PDP University
 📚 42.uz Express Algorithm — graduated
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px;">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-art-coding.gif" width="230" style="border:3px solid #00FF9C; border-radius:4px;">
 <br><sub>📎 taped in — terminal fragment</sub>
 
 </td>
@@ -54,11 +53,7 @@ studying: AI Solutions & Applications @ PDP University
 
 <!-- ============ SCRAP 02 · STACK ============ -->
 
-<div align="right">
-<img width="42" src="https://img.icons8.com/fluency/48/paper-clip.png">
-</div>
-
-## stack — cut from different sheets &nbsp;✂️
+## 🖇️&nbsp; stack — cut from different sheets
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons">
@@ -79,7 +74,7 @@ studying: AI Solutions & Applications @ PDP University
 </td>
 <td width="33%" valign="top">
 
-**🟦 backend**
+**🟩 backend**
 ```
 ├── FastAPI
 ├── Node.js
@@ -87,9 +82,9 @@ studying: AI Solutions & Applications @ PDP University
 ```
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
-**🟨 database + cs**
+**🟩 database + cs**
 ```
 ├── PostgreSQL
 ├── Data Structures
@@ -102,17 +97,11 @@ studying: AI Solutions & Applications @ PDP University
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
 
 <!-- ============ SCRAP 03 · CURRENTLY ============ -->
 
-<img align="left" width="42" src="https://img.icons8.com/fluency/48/sticky-note.png">
-
-## &nbsp;currently — sticky notes on the desk
-
-<table>
-<tr>
-<td>
+## 🗒️&nbsp; currently — sticky notes on the desk
 
 ```diff
 + Solving problems on LeetCode
@@ -124,11 +113,7 @@ studying: AI Solutions & Applications @ PDP University
 + Understanding systems beyond the abstraction
 ```
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00FF9C&height=4&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
 <!-- ============ SCRAP 04 · PHILOSOPHY ============ -->
 
@@ -136,23 +121,19 @@ studying: AI Solutions & Applications @ PDP University
 
 ## ⋆ philosophy — cut in a loop, pinned in a circle ⋆
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px; transform: rotate(-1deg);">
-
 ```
    LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REPEAT
 ```
 
-**“If I don't understand it, I don't consider it learned.”**
+**"If I don't understand it, I don't consider it learned."**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,100:00FF9C&height=8&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
 
 <!-- ============ SCRAP 05 · PROBLEM SOLVING ============ -->
 
-<img align="left" width="42" src="https://img.icons8.com/fluency/48/thread.png">
-
-## &nbsp;problem_solving — thread connecting the pins
+## 🧵&nbsp; problem_solving — thread connecting the pins
 
 ```text
 Read → Understand → Pattern → Design → Complexity → Implement → Test → Learn
@@ -162,13 +143,13 @@ Read → Understand → Pattern → Design → Complexity → Implement → Test
 > I don't solve problems just to move a number.
 > **The goal is to become better at thinking.**
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9C,100:1a1a2e&height=6&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
 <!-- ============ SCRAP 06 · BACKEND DIAGRAM ============ -->
 
 <div align="center">
 
-## backend — the blueprint clipping
+## 🗂️ backend — the blueprint clipping
 
 ```
                     ┌──────────┐
@@ -197,13 +178,13 @@ Read → Understand → Pattern → Design → Complexity → Implement → Test
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:00FF9C&height=70&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
 
 <!-- ============ SCRAP 07 · LINUX ============ -->
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ## `> linux` — the corner sticker
 
@@ -223,32 +204,32 @@ Linux
 **Linux isn't something I occasionally use — it's where I work.**
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/z0k8VTX2FVAGA/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px;">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/terminal-gif.gif" width="230" style="border:3px solid #00FF9C; border-radius:4px;">
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=6&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
 <!-- ============ SCRAP 08 · INTERESTS ============ -->
 
 <div align="center">
 
-## interests — a scatter of clippings
+## 🏷️ interests — a scatter of clippings
 
-<img src="https://img.shields.io/badge/Software_Engineering-1a1a1a?style=flat-square&logo=codeforces&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Backend_Development-1a1a1a?style=flat-square&logo=fastapi&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-1a1a1a?style=flat-square&logo=openai&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Software_Engineering-0d1117?style=flat-square&logo=codeforces&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Backend_Development-0d1117?style=flat-square&logo=fastapi&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logo=leetcode&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0d1117?style=flat-square&logo=openai&logoColor=00FF9C">
 <br><br>
-<img src="https://img.shields.io/badge/Data_Analytics-1a1a1a?style=flat-square&logo=googleanalytics&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Systems-1a1a1a?style=flat-square&logo=cachet&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Databases-1a1a1a?style=flat-square&logo=postgresql&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/Computer_Networks-1a1a1a?style=flat-square&logo=cisco&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Data_Analytics-0d1117?style=flat-square&logo=googleanalytics&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Systems-0d1117?style=flat-square&logo=cachet&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Databases-0d1117?style=flat-square&logo=postgresql&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Computer_Networks-0d1117?style=flat-square&logo=cisco&logoColor=00FF9C">
 
 </div>
 
@@ -256,9 +237,7 @@ Linux
 
 <!-- ============ SCRAP 09 · 42.uz ============ -->
 
-<img align="left" width="42" src="https://img.icons8.com/fluency/48/certificate.png">
-
-## &nbsp;42.uz — the certificate cutout
+## 📜&nbsp; 42.uz — the certificate cutout
 
 ```
 COURSE  : Express Algorithm
@@ -270,13 +249,13 @@ RESULT
 └── More problems to solve
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
 <!-- ============ SCRAP 10 · PROJECTS ============ -->
 
 <div align="center">
 
-## projects — an empty frame, waiting
+## 🗃️ projects — an empty frame, waiting
 
 ```bash
 $ ls ~/projects
@@ -287,20 +266,20 @@ Coming soon...
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:1a1a2e&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
 
 <!-- ============ SCRAP 11 · STATS COLLAGE ============ -->
 
 <div align="center">
 
-## github_stats — the numbers pinboard
+## 📊 github_stats — the numbers pinboard
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
-<img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00FF9C&label=Followers&labelColor=1a1a1a" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&labelColor=0d1117&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
+<img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00FF9C&label=Followers&labelColor=0d1117" alt="Followers" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="55%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="55%" alt="GitHub streak" />
 
 <br><br>
 
@@ -308,25 +287,25 @@ Coming soon...
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FF9C,100:1a1a2e&height=8&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
 <!-- ============ SCRAP 12 · SNAKE ============ -->
 
 <div align="center">
 
-## contribution_snake — the ribbon holding it together
+## 🐍 contribution_snake — the ribbon holding it together
 
 <img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,100:00FF9C&height=6&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
 
 <!-- ============ SCRAP 13 · OBJECTIVE ============ -->
 
 <div align="center">
 
-## objective — the headline clipping
+## 🎯 objective — the headline clipping
 
 ```
 Become a Software Engineer
@@ -338,22 +317,20 @@ No shortcuts. No pretending. **Just build.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
 <!-- ============ SCRAP 14 · CONNECT ============ -->
 
 <div align="center">
 
-## connect — the last sticker on the board
+## 🔗 connect — the last sticker on the board
 
-<a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C"></a>
+<a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"></a>
+<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C"></a>
+<a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"></a>
 
 <br><br>
-
-<img src="https://media.giphy.com/media/xUOxfjsW7wq9OMWDDe/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px;">
 
 ```bash
 $ ./continue.sh
