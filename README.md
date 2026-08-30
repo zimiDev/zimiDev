@@ -41,32 +41,15 @@ studying: AI Solutions & Applications @ PDP University
 
 <div align="center">
 
-<img src="./assets/tag_languages.svg" height="60">
-<br>
-<img src="https://skillicons.dev/icons?i=py,go&theme=dark" alt="languages">
+<img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons">
 
 <br><br>
 
-<img src="./assets/tag_backend.svg" height="60">
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="backend">
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&color=00C97A" alt="REST APIs">
-
-<br><br>
-
-<img src="./assets/tag_database.svg" height="60">
-<br>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="database">
+<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&color=00C97A">
 <img src="https://img.shields.io/badge/Data_Structures-0d1117?style=flat-square&color=00C97A">
 <img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square&color=00C97A">
 <img src="https://img.shields.io/badge/OS_%26_Networks-0d1117?style=flat-square&color=00C97A">
 <img src="https://img.shields.io/badge/System_Design-0d1117?style=flat-square&color=00C97A">
-
-<br><br>
-
-<img src="./assets/tag_tools.svg" height="60">
-<br>
-<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="tools">
 
 </div>
 
