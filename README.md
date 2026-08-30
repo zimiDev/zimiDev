@@ -255,23 +255,4 @@ No shortcuts. No pretending. **Just build.**
 
 <br><br>
 
-```bash
-$ ./continue.sh
-Learning...
-Building...
-Solving...
-Breaking...
-Fixing...
-
-STATUS: RUNNING
-```
-
-### `> exit`
-```
-Session terminated.
-The work isn't.
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12241d,100:0d1117&height=100&section=footer" width="100%">
