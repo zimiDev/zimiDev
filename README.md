@@ -17,10 +17,6 @@
 <!-- ============ SCRAP 01 · WHOAMI ============ -->
 <img src="./assets/banner_01_whoami.svg" width="100%">
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
 ```yaml
 # clipped from a notebook margin
 name:     Azimjon
@@ -32,17 +28,19 @@ studying: AI Solutions & Applications @ PDP University
 
 > ✂️ *"I like understanding how things work, not just making them work."*
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 🎓 Student — Artificial Intelligence Solutions and Applications
 💻 Python Backend Developer
+
+</td>
+<td width="50%" valign="top">
+
 🐧 Linux is where I actually live, not just where I `ssh` into
 🧩 LeetCode problem solver, one scrap at a time
 📚 42.uz Express Algorithm — graduated
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/pixel-art-coding.gif" width="220" style="border:6px solid #f2e9d6; border-radius:2px; transform:rotate(3deg); box-shadow:0 6px 14px rgba(0,0,0,0.5);">
-<br><sub>📎 taped in — terminal fragment</sub>
 
 </td>
 </tr>
@@ -54,46 +52,37 @@ studying: AI Solutions & Applications @ PDP University
 <img src="./assets/banner_02_stack.svg" width="100%">
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons">
-</div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+**✂️ languages**
 
-**🟩 languages**
-```
-├── Python
-└── Go
-```
+<img src="https://skillicons.dev/icons?i=py,go&theme=dark" alt="languages">
 
-</td>
-<td width="33%" valign="top">
+<br><br>
 
-**🟩 backend**
-```
-├── FastAPI
-├── Node.js
-└── REST APIs
-```
+**✂️ backend**
 
-</td>
-<td width="34%" valign="top">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="backend">
+<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&color=00C97A" alt="REST APIs">
 
-**🟩 database + cs**
-```
-├── PostgreSQL
-├── Data Structures
-├── OOP
-├── OS & Networks
-└── System Design
-```
+<br><br>
 
-</td>
-</tr>
-</table>
+**✂️ database + cs**
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="database">
+<img src="https://img.shields.io/badge/Data_Structures-0d1117?style=flat-square&color=00C97A">
+<img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square&color=00C97A">
+<img src="https://img.shields.io/badge/OS_%26_Networks-0d1117?style=flat-square&color=00C97A">
+<img src="https://img.shields.io/badge/System_Design-0d1117?style=flat-square&color=00C97A">
+
+<br><br>
+
+**✂️ tools**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="tools">
+
+</div>
 
 <img src="./assets/divider_b.svg" width="100%">
 
@@ -145,30 +134,7 @@ Read → Understand → Pattern → Design → Complexity → Implement → Test
 
 <div align="center">
 
-```
-                    ┌──────────┐
-                    │  Client  │
-                    └────┬─────┘
-                         ▼
-                    ┌──────────┐
-                    │   API    │
-                    └────┬─────┘
-              ┌──────────┴──────────┐
-              ▼                     ▼
-        ┌───────────┐        ┌───────────┐
-        │  FastAPI  │        │  Node.js  │
-        └─────┬─────┘        └─────┬─────┘
-              └──────────┬─────────┘
-                         ▼
-                  ┌─────────────┐
-                  │    Logic    │
-                  └──────┬──────┘
-                         ▼
-                  ┌─────────────┐
-                  │ PostgreSQL  │
-                  └─────────────┘
-```
-<sub>✂️ pieced together from backend fragments</sub>
+<img src="./assets/backend_diagram.svg" width="90%">
 
 </div>
 
@@ -230,15 +196,31 @@ Linux
 <!-- ============ SCRAP 09 · 42.uz ============ -->
 <img src="./assets/banner_09_42_uz.svg" width="100%">
 
+<table width="100%">
+<tr>
+<td width="42%" valign="top" align="center">
+
+<img src="./assets/cert_42uz.jpg" width="230" style="border:10px solid #f2e9d6; border-radius:2px; transform:rotate(-2.5deg); box-shadow:0 8px 18px rgba(0,0,0,0.55);">
+<br><sub>📌 pinned — the actual cutout</sub>
+
+</td>
+<td width="58%" valign="top">
+
 ```
 COURSE  : Express Algorithm
 STATUS  : COMPLETED ✓
+ISSUED  : 8-June-2026
+MENTOR  : Azim Pulat
 
 RESULT
 ├── Better problem solving
 ├── Stronger algorithmic thinking
 └── More problems to solve
 ```
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider_a.svg" width="100%">
 
