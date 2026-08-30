@@ -21,7 +21,7 @@
 # clipped from a notebook margin
 name:     Azimjon
 alias:    Zimi
-role:     Software Engineer in Progress
+role:     Software Engineer 
 system:   Linux
 studying: AI Solutions & Applications @ PDP University
 ```
