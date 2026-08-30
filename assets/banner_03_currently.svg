@@ -1,0 +1,35 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="stripe03" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+      <rect width="6" height="6" fill="#00c97a" opacity="0.35"/>
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#00966a" stroke-width="2" opacity="0.5"/>
+    </pattern>
+    <filter id="shadow03" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="4" dy="6" stdDeviation="4" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <g transform="rotate(-0.8 450.0 85.0)">
+    <g filter="url(#shadow03)">
+      <path d="M 0 3.8 L 0.0 3.8 L 27.1 11.9 L 55.2 3.5 L 79.6 9.8 L 103.9 5.7 L 127.7 11.3 L 152.0 4.0 L 177.6 12.6 L 204.2 2.9 L 228.9 9.8 L 257.1 6.0 L 285.0 12.5 L 312.4 6.6 L 340.2 10.2 L 368.3 4.7 L 395.8 11.5 L 421.4 4.3 L 447.0 10.5 L 470.7 6.1 L 498.5 13.1 L 525.6 5.0 L 553.1 9.7 L 580.2 4.6 L 604.2 10.0 L 630.4 3.8 L 656.1 11.6 L 681.5 3.3 L 707.4 10.1 L 731.9 3.6 L 757.1 9.5 L 784.0 6.6 L 809.3 12.1 L 837.9 3.0 L 861.8 12.4 L 889.8 5.4 L 900.0 8.0L 900.0 142.0 L 895.9 146.0 L 872.0 137.1 L 843.4 146.7 L 819.0 138.7 L 795.4 145.6 L 769.8 138.7 L 744.1 145.3 L 716.9 138.7 L 693.4 145.3 L 669.7 139.8 L 646.5 144.3 L 623.0 140.1 L 599.4 145.2 L 571.6 137.7 L 545.9 144.0 L 519.8 140.3 L 496.2 143.9 L 469.4 139.2 L 445.8 145.9 L 417.5 139.2 L 391.9 147.2 L 366.5 140.7 L 342.2 143.5 L 317.2 137.3 L 290.3 143.9 L 263.3 139.0 L 239.4 145.7 L 211.6 137.8 L 186.5 146.8 L 162.1 137.3 L 134.4 144.8 L 107.3 138.0 L 80.4 146.1 L 55.9 137.9 L 27.2 145.8 L 0.0 137.2 Z" fill="#f2e9d6" stroke="#00000022" stroke-width="1"/>
+    </g>
+    <!-- washi tape -->
+    <g transform="translate(72.0,-8) rotate(-8)">
+      <rect width="90" height="34" fill="url(#stripe03)" opacity="0.9"/>
+      <rect width="90" height="34" fill="none" stroke="#00966a" stroke-width="1" opacity="0.6"/>
+    </g>
+    <g transform="translate(830,136) rotate(6)">
+      <rect width="60" height="26" fill="url(#stripe03)" opacity="0.85"/>
+    </g>
+    <!-- scrap number tag -->
+    <text x="24" y="34" font-family="'Fira Code', monospace" font-size="13" fill="#00966a" opacity="0.85">SCRAP // 03</text>
+    <!-- icon -->
+    <text x="840" y="93" font-size="40">🗒️</text>
+    <!-- title -->
+    <text x="30" y="87" font-family="'Segoe Print','Bradley Hand',cursive,sans-serif" font-size="38" font-weight="700" fill="#1e1b16">currently</text>
+    <!-- subtitle -->
+    <text x="30" y="113" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#5a5245">sticky notes on the desk</text>
+    <!-- pin -->
+    <circle cx="450.0" cy="6" r="7" fill="#b23a2e"/>
+    <circle cx="450.0" cy="6" r="2.5" fill="#ffffffaa"/>
+  </g>
+</svg>
