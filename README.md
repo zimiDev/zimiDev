@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://zimi.uz"><img src="https://img.shields.io/badge/Website-zimi.uz-00FF9C?style=for-the-badge&logo=todoist&logoColor=black" alt="Website"></a>
 </p>
@@ -278,7 +278,7 @@ No shortcuts. No pretending. **Just build.**
   <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-your%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">──────────────────────────────────────────</p>
