@@ -23,6 +23,10 @@
 
 ## `> whoami`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20whoami&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="whoami banner">
+</p>
+
 ```text
 ╔══════════════════════════════════════════════════╗
 ║                  ZIMI // AZIMJON                  ║
@@ -46,6 +50,10 @@ Focus     : Backend • Algorithms • AI
 <p align="center">──────────────────────────────────────────</p>
 
 ## `> stack`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20stack&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="stack banner">
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons" />
@@ -72,6 +80,10 @@ AI & DATA                TOOLS & ENVIRONMENT
 
 ## `> currently`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20currently&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="currently banner">
+</p>
+
 ```text
 [+] Solving problems on LeetCode
 [+] Sharpening Data Structures & Algorithms
@@ -85,6 +97,10 @@ AI & DATA                TOOLS & ENVIRONMENT
 <p align="center">──────────────────────────────────────────</p>
 
 ## `> philosophy`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20philosophy&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="philosophy banner">
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="philosophy gif">
@@ -112,6 +128,10 @@ AI & DATA                TOOLS & ENVIRONMENT
 
 ## `> problem_solving`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20problem_solving&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="problem_solving banner">
+</p>
+
 ```text
 $ solve_problem
 
@@ -132,6 +152,10 @@ I don't solve problems just to increase a number.
 <p align="center">──────────────────────────────────────────</p>
 
 ## `> backend`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20backend&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="backend banner">
+</p>
 
 ```text
                     ┌──────────┐
@@ -168,6 +192,10 @@ I don't solve problems just to increase a number.
 ## `> linux`
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20linux&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="linux banner">
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/z0k8VTX2FVAGA/giphy.gif" width="320" alt="linux terminal gif">
 </p>
 
@@ -191,6 +219,10 @@ Linux
 ## `> interests`
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20interests&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="interests banner">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Software_Engineering-1a1a1a?style=flat-square&logo=codeforces&logoColor=00FF9C">
   <img src="https://img.shields.io/badge/Backend_Development-1a1a1a?style=flat-square&logo=fastapi&logoColor=00FF9C">
   <img src="https://img.shields.io/badge/DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=00FF9C">
@@ -207,6 +239,10 @@ Linux
 
 ## `> 42.uz`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%2042.uz&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="42.uz banner">
+</p>
+
 ```text
 COURSE  : Express Algorithm
 STATUS  : COMPLETED ✓
@@ -221,6 +257,10 @@ RESULT
 
 ## `> projects`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20projects&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="projects banner">
+</p>
+
 ```text
 $ ls ~/projects
 
@@ -234,6 +274,10 @@ Building things that are worth showing.
 <p align="center">──────────────────────────────────────────</p>
 
 ## `> github_stats`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20github_stats&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="github_stats banner">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
@@ -257,12 +301,20 @@ Building things that are worth showing.
 ## `> contribution_snake`
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20contribution_snake&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="contribution_snake banner">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
 </p>
 
 <p align="center">──────────────────────────────────────────</p>
 
 ## `> objective`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20objective&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="objective banner">
+</p>
 
 ```text
 Become a Software Engineer
@@ -275,6 +327,10 @@ No shortcuts. No pretending. **Just build.**
 <p align="center">──────────────────────────────────────────</p>
 
 ## `> connect`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20connect&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="connect banner">
+</p>
 
 <p align="center">
   <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
