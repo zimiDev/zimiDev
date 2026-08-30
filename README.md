@@ -1,204 +1,213 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+whoami;Azimjon+%2F%2F+Zimi;Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00FF9C&height=200&section=header&text=ZIMI&fontSize=80&fontColor=00FF9C&fontAlignY=40&animation=fadeIn&fontFamily=Fira+Code" width="100%">
 
-<p align="center">
-  <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://zimi.uz"><img src="https://img.shields.io/badge/Website-zimi.uz-00FF9C?style=for-the-badge&logo=todoist&logoColor=black" alt="Website" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+whoami+..+cutting+and+pasting+a+life+in+code;Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-RUNNING-00FF9C?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/SYSTEM-LINUX-00FF9C?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/MODE-LEARNING-00FF9C?style=flat-square&labelColor=1a1a1a" />
-</p>
+<br>
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://img.shields.io/badge/📌_pinned-since_2024-1a1a1a?style=flat-square&labelColor=0d1117&color=00FF9C">
+<img src="https://img.shields.io/badge/torn_from-PDP_University-1a1a1a?style=flat-square&labelColor=0d1117&color=00FF9C">
+<img src="https://img.shields.io/badge/glued_with-☕+patience-1a1a1a?style=flat-square&labelColor=0d1117&color=00FF9C">
 
-## About
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20whoami&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="whoami banner" />
-</p>
+<br>
 
-```text
-╔══════════════════════════════════════════════════╗
-║                  ZIMI // AZIMJON                  ║
-╚══════════════════════════════════════════════════╝
+<!-- ============ SCRAP 01 · WHOAMI ============ -->
+<img align="left" width="42" src="https://img.icons8.com/fluency/48/pushpin.png">
 
-Name      : Azimjon
-Nickname  : Zimi
-Role      : Software Engineer in Progress
-System    : Linux
-Focus     : Backend • Algorithms • AI
+## &nbsp;whoami — the torn note
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+# clipped from a notebook margin
+name:     Azimjon
+alias:    Zimi
+role:     Software Engineer in Progress
+system:   Linux
+studying: AI Solutions & Applications @ PDP University
 ```
 
-- 🎓 Artificial Intelligence Solutions and Applications student at PDP University
-- 💻 Python Backend Developer
-- 🐧 Linux is my primary environment
-- 🧩 LeetCode problem solver
-- 📚 42.uz Express Algorithm Course graduate
+> ✂️ *"I like understanding how things work, not just making them work."*
 
-> I like understanding how things work, not just making them work.
+🎓 Student — Artificial Intelligence Solutions and Applications
+💻 Python Backend Developer
+🐧 Linux is where I actually live, not just where I `ssh` into
+🧩 LeetCode problem solver, one scrap at a time
+📚 42.uz Express Algorithm — graduated
 
-<p align="center">──────────────────────────────────────────</p>
+</td>
+<td width="40%" valign="top" align="center">
 
-## Stack
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px;">
+<br><sub>📎 taped in — terminal fragment</sub>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20stack&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="stack banner" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
-```text
-LANGUAGES        DATABASE           COMPUTER SCIENCE
-├── Python        └── PostgreSQL     ├── Data Structures & Algorithms
-└── Go                               ├── Problem Solving
-                                      ├── OOP
-BACKEND                              ├── Operating Systems
-├── FastAPI                          ├── Computer Networks
-├── Node.js                          └── System Design
+<!-- ============ SCRAP 02 · STACK ============ -->
+
+<div align="right">
+<img width="42" src="https://img.icons8.com/fluency/48/paper-clip.png">
+</div>
+
+## stack — cut from different sheets &nbsp;✂️
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="stack icons">
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🟩 languages**
+```
+├── Python
+└── Go
+```
+
+</td>
+<td width="33%" valign="top">
+
+**🟦 backend**
+```
+├── FastAPI
+├── Node.js
 └── REST APIs
-
-AI & DATA                TOOLS & ENVIRONMENT
-├── AI Tools              ├── Linux
-├── Data Analytics        ├── Git
-└── AI Engineering        ├── GitHub
-                           └── Terminal
 ```
 
-<p align="center">──────────────────────────────────────────</p>
+</td>
+<td width="33%" valign="top">
 
-## Currently
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20currently&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="currently banner" />
-</p>
-
-```text
-[+] Solving problems on LeetCode
-[+] Sharpening Data Structures & Algorithms
-[+] Building Python backend systems
-[+] Learning Go
-[+] Exploring AI Engineering
-[+] Strengthening software engineering fundamentals
-[+] Understanding systems beyond abstraction
+**🟨 database + cs**
+```
+├── PostgreSQL
+├── Data Structures
+├── OOP
+├── OS & Networks
+└── System Design
 ```
 
-<p align="center">──────────────────────────────────────────</p>
+</td>
+</tr>
+</table>
 
-## Philosophy
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20philosophy&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="philosophy banner" />
-</p>
+<!-- ============ SCRAP 03 · CURRENTLY ============ -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="philosophy gif" />
-</p>
+<img align="left" width="42" src="https://img.icons8.com/fluency/48/sticky-note.png">
 
-```text
-┌────────────────────────────┐
-│  LEARN                     │
-│    ↓                       │
-│  BUILD                     │
-│    ↓                       │
-│  BREAK                     │
-│    ↓                       │
-│  DEBUG                     │
-│    ↓                       │
-│  UNDERSTAND                │
-│    ↓                       │
-│  REPEAT                    │
-└────────────────────────────┘
+## &nbsp;currently — sticky notes on the desk
+
+<table>
+<tr>
+<td>
+
+```diff
++ Solving problems on LeetCode
++ Sharpening Data Structures & Algorithms
++ Building Python backend systems
++ Learning Go
++ Exploring AI Engineering
++ Strengthening software engineering fundamentals
++ Understanding systems beyond the abstraction
 ```
 
-> If I do not understand it, I do not consider it learned.
+</td>
+</tr>
+</table>
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00FF9C&height=4&section=header" width="100%">
 
-## Problem Solving
+<!-- ============ SCRAP 04 · PHILOSOPHY ============ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20problem_solving&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="problem solving banner" />
-</p>
+<div align="center">
 
-```text
-$ solve_problem
+## ⋆ philosophy — cut in a loop, pinned in a circle ⋆
 
-Read        → Understand
-Understand  → Find the pattern
-Pattern     → Design the solution
-Solution    → Analyze complexity
-Complexity  → Implement
-Implement   → Test
-Test        → Learn
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px; transform: rotate(-1deg);">
+
+```
+   LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → REPEAT
 ```
 
-### Consistency > Motivation
+**“If I don't understand it, I don't consider it learned.”**
 
-I do not solve problems just to increase a number. The goal is to become better at thinking.
+</div>
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,100:00FF9C&height=8&section=footer" width="100%">
 
-## Backend
+<!-- ============ SCRAP 05 · PROBLEM SOLVING ============ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20backend&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="backend banner" />
-</p>
+<img align="left" width="42" src="https://img.icons8.com/fluency/48/thread.png">
+
+## &nbsp;problem_solving — thread connecting the pins
 
 ```text
+Read → Understand → Pattern → Design → Complexity → Implement → Test → Learn
+```
+
+> `Consistency > Motivation`
+> I don't solve problems just to move a number.
+> **The goal is to become better at thinking.**
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9C,100:1a1a2e&height=6&section=header" width="100%">
+
+<!-- ============ SCRAP 06 · BACKEND DIAGRAM ============ -->
+
+<div align="center">
+
+## backend — the blueprint clipping
+
+```
                     ┌──────────┐
                     │  Client  │
                     └────┬─────┘
-                         │
                          ▼
                     ┌──────────┐
                     │   API    │
                     └────┬─────┘
-                         │
               ┌──────────┴──────────┐
               ▼                     ▼
         ┌───────────┐        ┌───────────┐
         │  FastAPI  │        │  Node.js  │
         └─────┬─────┘        └─────┬─────┘
-              │                    │
               └──────────┬─────────┘
                          ▼
                   ┌─────────────┐
                   │    Logic    │
                   └──────┬──────┘
-                         │
                          ▼
                   ┌─────────────┐
                   │ PostgreSQL  │
                   └─────────────┘
 ```
+<sub>✂️ pieced together from backend fragments</sub>
 
-Technologies I use for backend development.
+</div>
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:00FF9C&height=70&section=footer" width="100%">
 
-## Linux
+<!-- ============ SCRAP 07 · LINUX ============ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20linux&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="linux banner" />
-</p>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/z0k8VTX2FVAGA/giphy.gif" width="320" alt="linux terminal gif" />
-</p>
+## `> linux` — the corner sticker
 
-```text
+```bash
 $ uname -a
 
 Linux
@@ -211,38 +220,47 @@ Linux
 └── Automation
 ```
 
-Linux is not something I occasionally use. It is where I work.
+**Linux isn't something I occasionally use — it's where I work.**
 
-<p align="center">──────────────────────────────────────────</p>
+</td>
+<td width="45%" valign="top" align="center">
 
-## Interests
+<img src="https://media.giphy.com/media/z0k8VTX2FVAGA/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px;">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20interests&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="interests banner" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-1a1a1a?style=flat-square&logo=codeforces&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Backend_Development-1a1a1a?style=flat-square&logo=fastapi&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-1a1a1a?style=flat-square&logo=openai&logoColor=00FF9C" />
-  <br />
-  <img src="https://img.shields.io/badge/Data_Analytics-1a1a1a?style=flat-square&logo=googleanalytics&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Systems-1a1a1a?style=flat-square&logo=cachet&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Databases-1a1a1a?style=flat-square&logo=postgresql&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Computer_Networks-1a1a1a?style=flat-square&logo=cisco&logoColor=00FF9C" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=6&section=header" width="100%">
 
-<p align="center">──────────────────────────────────────────</p>
+<!-- ============ SCRAP 08 · INTERESTS ============ -->
 
-## 42.uz
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%2042.uz&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="42.uz banner" />
-</p>
+## interests — a scatter of clippings
 
-```text
+<img src="https://img.shields.io/badge/Software_Engineering-1a1a1a?style=flat-square&logo=codeforces&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Backend_Development-1a1a1a?style=flat-square&logo=fastapi&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/DSA-1a1a1a?style=flat-square&logo=leetcode&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-1a1a1a?style=flat-square&logo=openai&logoColor=00FF9C">
+<br><br>
+<img src="https://img.shields.io/badge/Data_Analytics-1a1a1a?style=flat-square&logo=googleanalytics&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Systems-1a1a1a?style=flat-square&logo=cachet&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Databases-1a1a1a?style=flat-square&logo=postgresql&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/Computer_Networks-1a1a1a?style=flat-square&logo=cisco&logoColor=00FF9C">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=footer" width="100%">
+
+<!-- ============ SCRAP 09 · 42.uz ============ -->
+
+<img align="left" width="42" src="https://img.icons8.com/fluency/48/certificate.png">
+
+## &nbsp;42.uz — the certificate cutout
+
+```
 COURSE  : Express Algorithm
 STATUS  : COMPLETED ✓
 
@@ -252,101 +270,93 @@ RESULT
 └── More problems to solve
 ```
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:1a1a2e,100:00FF9C&height=6&section=header" width="100%">
 
-## Projects
+<!-- ============ SCRAP 10 · PROJECTS ============ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20projects&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="projects banner" />
-</p>
+<div align="center">
 
-```text
+## projects — an empty frame, waiting
+
+```bash
 $ ls ~/projects
-
 Coming soon...
-
-Building things that are worth showing.
 ```
 
-> Build first. Show later.
+**Build first. Show later.**
 
-<p align="center">──────────────────────────────────────────</p>
+</div>
 
-## GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:1a1a2e&height=4&section=footer" width="100%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20github_stats&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="github stats banner" />
-</p>
+<!-- ============ SCRAP 11 · STATS COLLAGE ============ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
-  <img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00FF9C&label=Followers&labelColor=1a1a1a" alt="Followers" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="60%" alt="GitHub streak" />
-</p>
+## github_stats — the numbers pinboard
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="top languages" />
-</p>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
+<img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00FF9C&label=Followers&labelColor=1a1a1a" alt="Followers" />
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/zimi_dev?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" alt="LeetCode stats" />
-</p>
+<br><br>
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="55%" alt="GitHub streak" />
 
-## Contribution Snake
+<br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20contribution_snake&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="contribution snake banner" />
-</p>
+<img src="https://leetcard.jacoblin.cool/zimi_dev?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" alt="LeetCode stats" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation" />
-</p>
+</div>
 
-<p align="center">──────────────────────────────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00FF9C,100:1a1a2e&height=8&section=header" width="100%">
 
-## Objective
+<!-- ============ SCRAP 12 · SNAKE ============ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20objective&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="objective banner" />
-</p>
+<div align="center">
 
-```text
-Become a software engineer
+## contribution_snake — the ribbon holding it together
+
+<img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,100:00FF9C&height=6&section=footer" width="100%">
+
+<!-- ============ SCRAP 13 · OBJECTIVE ============ -->
+
+<div align="center">
+
+## objective — the headline clipping
+
+```
+Become a Software Engineer
 who can understand the system
 from the algorithm to the application.
 ```
 
-No shortcuts. No pretending. Just build.
+No shortcuts. No pretending. **Just build.**
 
-<p align="center">──────────────────────────────────────────</p>
+</div>
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,100:1a1a2e&height=6&section=header" width="100%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00FF9C&height=80&section=header&text=%3E%20connect&fontSize=26&fontColor=00FF9C&animation=fadeIn&fontAlignY=62&desc=&fontFamily=Fira+Code" width="100%" alt="connect banner" />
-</p>
+<!-- ============ SCRAP 14 · CONNECT ============ -->
 
-<p align="center">
-  <a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">──────────────────────────────────────────</p>
+## connect — the last sticker on the board
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW7wq9OMWDDe/giphy.gif" width="280" alt="closing gif" />
-</p>
+<a href="https://github.com/zimiDev"><img src="https://img.shields.io/badge/GitHub-zimiDev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/zimidev"><img src="https://img.shields.io/badge/LinkedIn-zimidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://leetcode.com/u/zimi_dev/"><img src="https://img.shields.io/badge/LeetCode-zimi__dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="mailto:zimidevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-zimidevs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-```text
+<br><br>
+
+<img src="https://media.giphy.com/media/xUOxfjsW7wq9OMWDDe/giphy.gif" width="230" style="border:4px solid #00FF9C; border-radius:2px;">
+
+```bash
 $ ./continue.sh
-
 Learning...
 Building...
 Solving...
@@ -356,13 +366,12 @@ Fixing...
 STATUS: RUNNING
 ```
 
-### Exit
-
-```text
+### `> exit`
+```
 Session terminated.
 The work isn't.
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF9C&height=120&section=footer" width="100%" />
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00FF9C&height=120&section=footer" width="100%">
