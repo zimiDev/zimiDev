@@ -28,23 +28,11 @@ studying: AI Solutions & Applications @ PDP University
 
 > ✂️ *"I like understanding how things work, not just making them work."*
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 🎓 Student — Artificial Intelligence Solutions and Applications
 💻 Python Backend Developer
-
-</td>
-<td width="50%" valign="top">
-
 🐧 Linux is where I actually live, not just where I `ssh` into
 🧩 LeetCode problem solver, one scrap at a time
 📚 42.uz Express Algorithm — graduated
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider_a.svg" width="100%">
 
@@ -53,23 +41,21 @@ studying: AI Solutions & Applications @ PDP University
 
 <div align="center">
 
+<img src="./assets/tag_languages.svg" height="60">
 <br>
-
-**✂️ languages**
-
 <img src="https://skillicons.dev/icons?i=py,go&theme=dark" alt="languages">
 
 <br><br>
 
-**✂️ backend**
-
+<img src="./assets/tag_backend.svg" height="60">
+<br>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="backend">
 <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&color=00C97A" alt="REST APIs">
 
 <br><br>
 
-**✂️ database + cs**
-
+<img src="./assets/tag_database.svg" height="60">
+<br>
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="database">
 <img src="https://img.shields.io/badge/Data_Structures-0d1117?style=flat-square&color=00C97A">
 <img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square&color=00C97A">
@@ -78,8 +64,8 @@ studying: AI Solutions & Applications @ PDP University
 
 <br><br>
 
-**✂️ tools**
-
+<img src="./assets/tag_tools.svg" height="60">
+<br>
 <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="tools">
 
 </div>
@@ -143,9 +129,11 @@ Read → Understand → Pattern → Design → Complexity → Implement → Test
 <!-- ============ SCRAP 07 · LINUX ============ -->
 <img src="./assets/banner_07_linux.svg" width="100%">
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/terminal-gif.gif" width="220" style="border:6px solid #f2e9d6; border-radius:2px; transform:rotate(-3deg); box-shadow:0 6px 14px rgba(0,0,0,0.5);">
+
+</div>
 
 ```bash
 $ uname -a
@@ -161,15 +149,6 @@ Linux
 ```
 
 **Linux isn't something I occasionally use — it's where I work.**
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/terminal-gif.gif" width="220" style="border:6px solid #f2e9d6; border-radius:2px; transform:rotate(-3deg); box-shadow:0 6px 14px rgba(0,0,0,0.5);">
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider_a.svg" width="100%">
 
@@ -196,15 +175,12 @@ Linux
 <!-- ============ SCRAP 09 · 42.uz ============ -->
 <img src="./assets/banner_09_42_uz.svg" width="100%">
 
-<table width="100%">
-<tr>
-<td width="42%" valign="top" align="center">
+<div align="center">
 
 <img src="./assets/cert_42uz.jpg" width="230" style="border:10px solid #f2e9d6; border-radius:2px; transform:rotate(-2.5deg); box-shadow:0 8px 18px rgba(0,0,0,0.55);">
 <br><sub>📌 pinned — the actual cutout</sub>
 
-</td>
-<td width="58%" valign="top">
+</div>
 
 ```
 COURSE  : Express Algorithm
@@ -217,10 +193,6 @@ RESULT
 ├── Stronger algorithmic thinking
 └── More problems to solve
 ```
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider_a.svg" width="100%">
 
