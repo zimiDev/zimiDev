@@ -1,0 +1,27 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#12241d"/>
+    </linearGradient>
+    <pattern id="stripeh" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
+      <rect width="8" height="8" fill="#00c97a" opacity="0.4"/>
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#00966a" stroke-width="2" opacity="0.5"/>
+    </pattern>
+    <filter id="shadowh" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="5" dy="8" stdDeviation="5" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="220" fill="url(#bgh)"/>
+  <g transform="rotate(-1.4 500.0 110.0)" filter="url(#shadowh)">
+    <path d="M 0 9.0 L 0.0 9.0 L 31.5 16.7 L 64.1 9.5 L 96.6 13.6 L 126.4 10.3 L 157.3 17.1 L 185.0 8.4 L 213.5 15.7 L 243.9 6.6 L 272.2 14.6 L 304.7 9.6 L 332.7 16.7 L 360.5 9.0 L 388.3 13.5 L 420.5 7.3 L 448.8 17.4 L 481.0 7.7 L 513.8 15.7 L 544.9 7.3 L 577.5 16.3 L 610.3 10.1 L 639.1 14.9 L 667.1 7.1 L 694.5 14.7 L 725.1 6.5 L 756.2 14.9 L 785.0 9.8 L 814.9 14.8 L 844.8 9.3 L 872.2 17.4 L 899.3 9.5 L 931.4 13.6 L 963.1 8.0 L 993.6 13.5 L 1000.0 12.0L 1000.0 208.0 L 994.1 212.0 L 961.7 203.8 L 934.6 212.6 L 907.5 205.3 L 875.4 210.3 L 847.5 204.4 L 819.3 210.7 L 788.4 203.0 L 758.2 213.0 L 730.7 204.9 L 701.9 211.9 L 672.7 202.6 L 639.8 212.7 L 608.6 205.1 L 578.6 213.1 L 546.0 203.9 L 515.0 210.3 L 484.5 206.3 L 455.7 212.0 L 427.6 202.9 L 397.9 212.7 L 366.1 202.9 L 337.1 212.9 L 306.0 205.7 L 277.4 212.7 L 247.0 203.3 L 216.0 211.7 L 186.5 205.4 L 154.7 210.6 L 123.0 204.0 L 91.5 211.4 L 60.5 202.5 L 31.9 211.4 L 0.0 205.7 Z" fill="#f2e9d6"/>
+  </g>
+  <g transform="rotate(-1.4 500.0 110.0)">
+    <g transform="translate(100.0,-10) rotate(-10)"><rect width="120" height="42" fill="url(#stripeh)"/></g>
+    <g transform="translate(780.0,188) rotate(8)"><rect width="110" height="40" fill="url(#stripeh)"/></g>
+    <text x="500.0" y="114" text-anchor="middle" font-family="'Segoe Print','Bradley Hand',cursive,sans-serif" font-size="86" font-weight="700" fill="#1e1b16">ZIMI</text>
+    <text x="500.0" y="156" text-anchor="middle" font-family="'Fira Code',monospace" font-size="17" fill="#00966a">&gt; cutting and pasting a life in code</text>
+    <circle cx="500.0" cy="8" r="8" fill="#b23a2e"/>
+    <circle cx="500.0" cy="8" r="3" fill="#ffffffaa"/>
+  </g>
+</svg>
