@@ -236,12 +236,16 @@ Building things that are worth showing.
 ## `> github_stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zimiDev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C" width="48%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="48%" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00FF9C&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FzimiDev" alt="Public repos" />
+  <img src="https://img.shields.io/github/followers/zimiDev?style=for-the-badge&logo=github&color=00FF9C&label=Followers&labelColor=1a1a1a" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimiDev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C" width="45%" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" width="60%" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,postgres,linux,git,github&theme=dark" alt="top languages" />
 </p>
 
 <p align="center">
@@ -255,8 +259,6 @@ Building things that are worth showing.
 <p align="center">
   <img src="https://raw.githubusercontent.com/zimiDev/zimiDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation">
 </p>
-
-> Ushbu animatsiya avtomatik ishlashi uchun `.github/workflows/snake.yml` faylini repo'ga qo'shish kerak (quyida tayyorlab berildi).
 
 <p align="center">──────────────────────────────────────────</p>
 
