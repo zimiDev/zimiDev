@@ -1,0 +1,35 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="stripe10" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+      <rect width="6" height="6" fill="#00c97a" opacity="0.35"/>
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#00966a" stroke-width="2" opacity="0.5"/>
+    </pattern>
+    <filter id="shadow10" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="4" dy="6" stdDeviation="4" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <g transform="rotate(1.2 450.0 85.0)">
+    <g filter="url(#shadow10)">
+      <path d="M 0 6.4 L 0.0 6.4 L 27.1 12.3 L 55.5 3.8 L 82.4 12.8 L 110.6 5.1 L 134.6 10.8 L 163.6 3.2 L 188.5 13.0 L 214.2 3.6 L 239.1 12.8 L 264.1 4.5 L 290.9 12.4 L 316.8 3.1 L 343.3 9.3 L 366.8 3.6 L 394.0 10.3 L 421.1 3.5 L 444.8 9.3 L 472.1 6.2 L 496.4 10.2 L 519.5 5.4 L 544.3 9.7 L 571.1 5.2 L 596.8 9.8 L 623.7 5.0 L 649.3 9.9 L 677.8 6.3 L 705.0 13.2 L 731.5 4.2 L 755.2 11.6 L 781.3 4.5 L 810.2 12.6 L 833.9 6.3 L 856.9 11.8 L 881.8 5.7 L 900.0 8.0L 900.0 142.0 L 879.6 137.7 L 852.1 145.4 L 826.2 138.8 L 797.2 146.1 L 773.7 136.9 L 748.3 147.2 L 723.0 138.6 L 697.8 144.8 L 669.5 140.5 L 645.3 146.5 L 619.5 137.3 L 592.1 145.5 L 564.5 139.8 L 536.1 147.1 L 511.9 139.9 L 487.5 146.7 L 464.2 137.5 L 438.3 144.6 L 412.0 138.6 L 383.5 143.7 L 355.6 137.4 L 330.3 147.0 L 306.7 138.8 L 281.7 143.3 L 255.0 140.3 L 227.5 147.2 L 204.3 137.7 L 179.9 146.4 L 156.5 139.1 L 131.3 143.2 L 106.8 138.8 L 80.8 146.4 L 53.0 137.7 L 27.1 145.7 L 0.0 137.5 Z" fill="#f2e9d6" stroke="#00000022" stroke-width="1"/>
+    </g>
+    <!-- washi tape -->
+    <g transform="translate(72.0,-8) rotate(-8)">
+      <rect width="90" height="34" fill="url(#stripe10)" opacity="0.9"/>
+      <rect width="90" height="34" fill="none" stroke="#00966a" stroke-width="1" opacity="0.6"/>
+    </g>
+    <g transform="translate(830,136) rotate(6)">
+      <rect width="60" height="26" fill="url(#stripe10)" opacity="0.85"/>
+    </g>
+    <!-- scrap number tag -->
+    <text x="24" y="34" font-family="'Fira Code', monospace" font-size="13" fill="#00966a" opacity="0.85">SCRAP // 10</text>
+    <!-- icon -->
+    <text x="840" y="93" font-size="40">🗃️</text>
+    <!-- title -->
+    <text x="30" y="87" font-family="'Segoe Print','Bradley Hand',cursive,sans-serif" font-size="38" font-weight="700" fill="#1e1b16">projects</text>
+    <!-- subtitle -->
+    <text x="30" y="113" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#5a5245">an empty frame, waiting</text>
+    <!-- pin -->
+    <circle cx="450.0" cy="6" r="7" fill="#b23a2e"/>
+    <circle cx="450.0" cy="6" r="2.5" fill="#ffffffaa"/>
+  </g>
+</svg>
