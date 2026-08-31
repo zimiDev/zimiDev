@@ -205,11 +205,21 @@ Coming soon...
 
 <br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zimiDev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C97A&line=00C97A&point=f2e9d6&area=true&area_color=00C97A" width="92%" alt="GitHub activity graph" />
+
+<br><br>
+
 <img src="https://streak-stats.demolab.com?user=zimiDev&theme=radical&hide_border=true&background=0d1117&ring=00C97A&fire=00C97A&currStreakLabel=00C97A" width="55%" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://leetcard.jacoblin.cool/zimi_dev?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" alt="LeetCode stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=zimiDev&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&row=1" width="80%" alt="GitHub trophies" />
+
+<br><br>
+
+<sub>🧩 leetcode — side quest</sub>
+<br>
+<img src="https://leetcard.jacoblin.cool/zimi_dev?theme=dark&font=Fira%20Code&ext=heatmap" width="42%" alt="LeetCode stats" />
 
 </div>
 
@@ -237,6 +247,7 @@ Coming soon...
 
 <a href="https://github.com/zimiDev"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"></a>
 <a href="https://linkedin.com/in/zimidev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55"></a>
+<a href="https://t.me/zimidev"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="55"></a>
 <a href="mailto:zimidevs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="55"></a>
 
 <br><br>
