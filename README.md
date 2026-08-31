@@ -230,23 +230,6 @@ Coming soon...
 
 <img src="./assets/divider_b.svg" width="100%">
 
-<!-- ============ SCRAP 13 · OBJECTIVE ============ -->
-<img src="./assets/banner_13_objective.svg" width="100%">
-
-<div align="center">
-
-```
-Become a Software Engineer
-who can understand the system
-from the algorithm to the application.
-```
-
-No shortcuts. No pretending. **Just build.**
-
-</div>
-
-<img src="./assets/divider_a.svg" width="100%">
-
 <!-- ============ SCRAP 14 · CONNECT ============ -->
 <img src="./assets/banner_14_connect.svg" width="100%">
 
