@@ -1,3 +1,14 @@
+## Featured projects
+
+- [BFS & DFS Visualizer](https://github.com/zimiDev/bfs_and_dfs_visualization) — interactive graph traversal visualization built with JavaScript.
+- [MedLink](https://github.com/zimiDev/for_class_work_medlink) — a full-stack healthcare class project with a JavaScript frontend and backend.
+- [LeetCode Solutions](https://github.com/zimiDev/leetcode_solutions) — Python practice in data structures and algorithms.
+- [Portfolio](https://github.com/zimiDev/portifolio-) — my personal website and developer journey.
+
+[Website](https://www.zimi.uz) · [LinkedIn](https://www.linkedin.com/in/zimidev) · [Telegram](https://t.me/zimidev)
+
+---
+
 <div align="center">
 
 <img src="./assets/hero_zimi.svg" width="100%">
@@ -186,7 +197,7 @@ RESULT
 
 ```bash
 $ ls ~/projects
-Coming soon...
+See featured projects above.
 ```
 
 **Build first. Show later.**
