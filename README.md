@@ -1,20 +1,8 @@
-## Featured projects
-
-- [BFS & DFS Visualizer](https://github.com/zimiDev/bfs_and_dfs_visualization) — interactive graph traversal visualization built with JavaScript.
-- [MedLink](https://github.com/zimiDev/for_class_work_medlink) — a full-stack healthcare class project with a JavaScript frontend and backend.
-- [LeetCode Solutions](https://github.com/zimiDev/leetcode_solutions) — Python practice in data structures and algorithms.
-- [Portfolio](https://github.com/zimiDev/portifolio-) — my personal website and developer journey.
-
-[Website](https://www.zimi.uz) · [LinkedIn](https://www.linkedin.com/in/zimidev) · [Telegram](https://t.me/zimidev)
-
----
-
 <div align="center">
 
 <img src="./assets/hero_zimi.svg" width="100%" alt="Zimi — developer profile">
 
-<a href="https://pdp.uz/"><img src="https://raw.githubusercontent.com/zimiDev/portifolio-/main/assets/pdp-mark.svg" width="64" alt="PDP University"></a>
-<br><sub>🎓 PDP University · AI Solutions & Applications</sub>
+<table><tr><td align="center"><a href="https://pdp.uz/"><img src="https://raw.githubusercontent.com/zimiDev/portifolio-/main/assets/pdp-mark.svg" width="80" alt="PDP mark"></a></td><td>📌 <b>PDP UNIVERSITY</b><br><sub>AI Solutions &amp; Applications<br>student · developer · problem solver</sub></td></tr></table>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=00C97A&background=00000000&center=true&vCenter=true&width=650&lines=Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
 
@@ -196,16 +184,7 @@ RESULT
 <!-- ============ SCRAP 10 · PROJECTS ============ -->
 <img src="./assets/banner_10_projects.svg" width="100%">
 
-<div align="center">
-
-```bash
-$ ls ~/projects
-See featured projects above.
-```
-
-**Build, learn, and share.**
-
-</div>
+<table><tr><td>📌 <b><a href="https://github.com/zimiDev/bfs_and_dfs_visualization">BFS &amp; DFS Lab</a></b><br><sub>Interactive graph traversal · JavaScript</sub><br><a href="https://zimidev.github.io/bfs_and_dfs_visualization/">View demo ↗</a></td><td>🩺 <b><a href="https://github.com/zimiDev/for_class_work_medlink">CareTrack Clinic</a></b><br><sub>Clinic class project · React &amp; Node.js</sub></td></tr><tr><td>🧩 <b><a href="https://github.com/zimiDev/leetcode_solutions">LeetCode Solutions</a></b><br><sub>Algorithms and data structures · Python</sub></td><td>✂️ <b><a href="https://github.com/zimiDev/portifolio-">Portfolio</a></b><br><sub>Personal site · HTML, CSS &amp; JavaScript</sub></td></tr></table>
 
 <img src="./assets/divider_b.svg" width="100%">
 
@@ -249,10 +228,16 @@ See featured projects above.
 
 <div align="center">
 
+✂️ <b>FIND ME ELSEWHERE</b> · links from my notebook<br><br>
+
 <a href="https://github.com/zimiDev"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"></a>
 <a href="https://linkedin.com/in/zimidev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55"></a>
 <a href="https://t.me/zimidev"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="55"></a>
 <a href="mailto:zimidevs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="55"></a>
+
+<br><br>
+
+<a href="https://www.zimi.uz">🌐 Website</a> · <a href="https://github.com/zimiDev">GitHub</a> · <a href="https://linkedin.com/in/zimidev">LinkedIn</a> · <a href="https://t.me/zimidev">Telegram</a> · <a href="mailto:zimidevs@gmail.com">Email</a>
 
 <br><br>
 
