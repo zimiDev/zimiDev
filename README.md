@@ -2,7 +2,7 @@
 
 <img src="./assets/hero_zimi.svg" width="100%" alt="Zimi — developer profile">
 
-<table><tr><td align="center"><a href="https://pdp.uz/"><img src="https://raw.githubusercontent.com/zimiDev/portifolio-/main/assets/pdp-mark.svg" width="80" alt="PDP mark"></a></td><td>📌 <b>PDP UNIVERSITY</b><br><sub>AI Solutions &amp; Applications<br>student · developer · problem solver</sub></td></tr></table>
+
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=900&color=00C97A&background=00000000&center=true&vCenter=true&width=650&lines=Backend+%E2%80%A2+Algorithms+%E2%80%A2+AI;Linux+is+my+primary+environment;scraps+of+logic%2C+glued+into+systems" alt="Typing SVG" />
 
@@ -232,7 +232,7 @@ RESULT
 
 <a href="https://github.com/zimiDev"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"></a>
 <a href="https://linkedin.com/in/zimidev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55"></a>
-<a href="https://t.me/zimidev"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="55"></a>
+<a href="https://t.me/zimidev"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="55"></a>
 <a href="mailto:zimidevs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="55"></a>
 
 <br><br>
